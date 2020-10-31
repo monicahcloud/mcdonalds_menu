@@ -1,9 +1,9 @@
 # mcdonalds_menu
 Given the following datasets, containing both price and calorie information for McDonald's food items: 
 
-McDonald's menu item prices 
+McDonald's menu item prices: https://raw.githubusercontent.com/erood/interviewqs.com_code_snippets/master/Datasets/mcD_food_prices.csv
 
-McDonald's menu item calories 
+McDonald's menu item calories: https://raw.githubusercontent.com/erood/interviewqs.com_code_snippets/master/Datasets/mcD_food_calories.csv
 
 Write code to merge the two datasets, calculate the price per calorie of food, and stack rank the foods from the 'best value' (most calories per dollar*) to 'worst value' (least calories per dollar*).  
 
